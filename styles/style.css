@@ -1,0 +1,80 @@
+#titre{
+	width: 350px;
+	height: 120px;
+	margin: 15px auto;
+	border: 3px solid black;
+	box-shadow: 10px 10px 0px black;
+}
+
+img{
+	width: 350px;
+	
+	
+}
+
+#bloctexte{
+	font-family: "helvetica";
+	font-size: 1em;
+	margin: 20px auto;
+	margin-left: 10px;
+	letter-spacing: 0.05em;
+	line-height: 1em;
+	text-align: justify-all;
+}
+
+
+#Présentation{
+	width: 350px;
+	margin: 15px auto;
+	background-color: white;
+	border: 3px solid black;
+	line-height: 1.3em;
+	background-color: white;
+	box-shadow: 10px 10px 0px black;
+	transition: 0.5s all ease;
+}
+
+#Présentation:hover{
+			box-shadow: 0px 0px 0px black;
+			}
+
+#insta_photo{
+			width: 220px;
+}
+
+#insta_art{
+			width: 230px;
+			height: 90px;
+}
+
+#contact{
+			width: 230px;
+}
+
+#portfolio{
+			width: 180px;
+}
+
+ul{
+	background-color: white;
+	width: 960px;
+	margin: 5px auto;
+	display: flex;
+	box-shadow: 10px 10px 0px black;
+	border: 3px solid black;
+}
+
+
+li{
+	display: flex;
+	background-color: white;
+	width: 120px;
+	height: 130px;
+	margin: 50px auto;
+}
+
+
+
+
+
+
